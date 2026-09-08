@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(89, 125, 188);
+    place-items:center;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+
+}
+.parallex{
+    background-image: url(https://wallpaperaccess.com/full/109927.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.parallex1{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/026/003/413/small/a-squadron-of-fighter-jets-darting-through-a-cloudy-sky-leaving-trails-of-white-smoke-against-the-vibrant-blue-canvas-photo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
